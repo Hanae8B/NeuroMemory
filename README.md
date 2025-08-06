@@ -48,7 +48,7 @@ NeuroMemory/
 ├── main.py # App entry point
 ├── requirements.txt # Python dependencies
 ├── README.md # Project description
-├── LICENSE # Project license (MIT recommended)
+├── LICENSE # Project license
 
 ---
 
