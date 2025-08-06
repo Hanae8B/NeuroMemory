@@ -1,4 +1,4 @@
-NeuroMemory is an open-source, modular memory engine designed to give AI agents the ability to remember, retrieve, and update long-term knowledge across sessions — a critical capability on the path to Artificial General Intelligence (AGI).
+# NeuroMemory is an open-source, modular memory engine designed to give AI agents the ability to remember, retrieve, and update long-term knowledge across sessions — a critical capability on the path to Artificial General Intelligence (AGI).
 # What It Does
 NeuroMemory provides:
 •	Long-term memory storage using vector embeddings and context indexing
